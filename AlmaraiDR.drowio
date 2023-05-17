@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T20:01:55.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cco8CstRBywLFTH5ljzo" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T20:02:20.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2z_i1bansT8rHKij_lL7" version="21.3.2" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
     <mxGraphModel dx="880" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -284,11 +284,10 @@
             <mxPoint x="488.38" y="823" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lown9K5yKBKj89JTiUl6-353" value="VPN&#xa;Connection" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpn_connection;labelBackgroundColor=#ffffff;" parent="lown9K5yKBKj89JTiUl6-291" vertex="1">
-          <mxGeometry x="955" y="511" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HndmqdJ4BW2akbrzc2V--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lown9K5yKBKj89JTiUl6-291" source="lown9K5yKBKj89JTiUl6-353" target="lown9K5yKBKj89JTiUl6-291" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HndmqdJ4BW2akbrzc2V--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.789;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lown9K5yKBKj89JTiUl6-291" target="lown9K5yKBKj89JTiUl6-291" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="511" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_EwYNKxNkJj7d0y0xG8y-159" value="OCI Dubai" style="text;html=1;align=left;verticalAlign=top;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=0;fontSize=14;spacingLeft=5;" vertex="1" parent="lown9K5yKBKj89JTiUl6-291">
           <mxGeometry x="34.999999999999886" y="581" width="120" height="26" as="geometry" />
@@ -330,8 +329,9 @@
             <mxPoint x="1709.2893218813451" y="160.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lown9K5yKBKj89JTiUl6-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="21" source="lown9K5yKBKj89JTiUl6-353" edge="1">
+        <mxCell id="lown9K5yKBKj89JTiUl6-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="21" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1405" y="571" as="sourcePoint" />
             <mxPoint x="1689" y="681.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
