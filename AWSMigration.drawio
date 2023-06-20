@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T15:53:53.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uDsQqC9B00WrjbIYxi8x" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T15:54:47.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rhRFRmO5UQEtF5pLrPeN" version="21.3.8" type="github">
   <diagram id="2f404044-711c-603c-8f00-f6bb4c023d3c" name="Page-1">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="465" y="42" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="U5dyf8ECy7FXiap7Likn-91" value="App Server" style="swimlane;shadow=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;startSize=0;collapsible=0;strokeWidth=1;fontStyle=0;fontSize=15;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="lown9K5yKBKj89JTiUl6-291">
-          <mxGeometry x="432.5" y="25.31" width="257.5" height="124.69" as="geometry" />
+          <mxGeometry x="432.5" y="30.31" width="257.5" height="124.69" as="geometry" />
         </mxCell>
         <mxCell id="U5dyf8ECy7FXiap7Likn-96" value="Background Services" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Windows10_Core_Services.svg;" vertex="1" parent="U5dyf8ECy7FXiap7Likn-91">
           <mxGeometry x="156.5" y="16.689999999999998" width="68" height="68" as="geometry" />
