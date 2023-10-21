@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T08:41:11.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FGWdxnHptxek4f_JXQCA" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T08:55:26.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="B--z-t-hsMVu_EqPER7_" version="22.0.6" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="2Zz69iPxBMQuEs3rhBV3-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.computer;rounded=0;shadow=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="400" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="nmwVQxLM_MAFSIkoF-n3-3" value="Getting Invoice data from Cloud" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#ffffff;strokeWidth=2;exitX=0.943;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=1;" parent="1" source="jc9Lef8F9UUcrOGQ-Xpw-3" target="jc9Lef8F9UUcrOGQ-Xpw-5" edge="1">
+        <mxCell id="nmwVQxLM_MAFSIkoF-n3-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#ffffff;strokeWidth=2;exitX=0.943;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=1;" parent="1" source="jc9Lef8F9UUcrOGQ-Xpw-3" target="jc9Lef8F9UUcrOGQ-Xpw-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="515" as="sourcePoint" />
             <mxPoint x="890" y="478.125" as="targetPoint" />
@@ -49,7 +49,7 @@
         <mxCell id="jc9Lef8F9UUcrOGQ-Xpw-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Images_Classic.svg;" vertex="1" parent="1">
           <mxGeometry x="970" y="448" width="88.41" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="jc9Lef8F9UUcrOGQ-Xpw-7" value="Getting Invoice data from Cloud" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#ffffff;strokeWidth=2;exitX=0.981;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=1;" edge="1" parent="1" source="jc9Lef8F9UUcrOGQ-Xpw-3" target="jc9Lef8F9UUcrOGQ-Xpw-6">
+        <mxCell id="jc9Lef8F9UUcrOGQ-Xpw-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#ffffff;strokeWidth=2;exitX=0.981;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;flowAnimation=1;" edge="1" parent="1" source="jc9Lef8F9UUcrOGQ-Xpw-3" target="jc9Lef8F9UUcrOGQ-Xpw-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="859" y="443" as="sourcePoint" />
             <mxPoint x="980" y="404" as="targetPoint" />
