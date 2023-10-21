@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T09:15:35.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KsZZa80jnimFzqDB6wfq" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T09:17:52.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="G95m0-2U7YGFxG3NRoo2" version="22.0.6" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="630" y="430" width="27" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2Zz69iPxBMQuEs3rhBV3-14" value="DSC API Utility" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Windows_10_IoT_Core_Services.svg;labelBackgroundColor=none;fontColor=#ffffff;imageBackground=default;fillStyle=auto;imageBorder=none;" parent="1" vertex="1">
-          <mxGeometry x="1292.5" y="320" width="72" height="72" as="geometry" />
+          <mxGeometry x="1292.51" y="320" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="2Zz69iPxBMQuEs3rhBV3-30" value="ERP" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#FFFFFF;shape=mxgraph.azure.computer;rounded=0;shadow=0;fontSize=12;fontColor=#FFFFFF;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="385" y="440" width="140" height="130" as="geometry" />
