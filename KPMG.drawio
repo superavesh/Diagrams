@@ -8,7 +8,7 @@
           <mxGeometry x="-730" y="-1060" width="1850" height="980" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-810" width="480" height="610" as="geometry" />
+          <mxGeometry x="190" y="-890" width="290" height="340" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-1" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: Calibri, sans-serif;&quot;&gt;Invoice&lt;br style=&quot;font-size: 14px;&quot;&gt;Signing Utility&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-990" width="120" height="400" as="geometry" />
@@ -42,37 +42,19 @@
           <mxGeometry x="-550" y="-925" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-31" value="Conceptual Data Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-795" width="200" height="30" as="geometry" />
+          <mxGeometry x="190" y="-885" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-38" value="&lt;font style=&quot;&quot;&gt;Master&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=16;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-751" width="140" height="66" as="geometry" />
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-38" value="&lt;font style=&quot;&quot;&gt;DocumentSigner&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=16;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-820" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-39" value="All masters tables for masters &amp;amp; subscription details" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-38" vertex="1">
-          <mxGeometry y="16" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-42" value="&lt;font style=&quot;&quot;&gt;Admin&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-655" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-43" value="All tables related to admin activites &amp;amp; users, roles, rights" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-42" vertex="1">
-          <mxGeometry y="20" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-44" value="&lt;font style=&quot;&quot;&gt;AppData&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-555" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-45" value="All tables related to app supportive data like email history&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-44" vertex="1">
-          <mxGeometry y="20" width="140" height="70" as="geometry" />
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-39" value="All masters tables for masters &amp;amp; subscription details, All tables related to admin activites &amp;amp; users, roles, rights, All tables related to app supportive data like email history&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-38" vertex="1">
+          <mxGeometry y="16" width="240" height="74" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-48" value="&lt;font style=&quot;&quot;&gt;App&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-434" width="140" height="70" as="geometry" />
+          <mxGeometry x="200" y="-674" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-49" value="All tables related to logs like request, commands, tasks etc" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-48" vertex="1">
-          <mxGeometry y="20" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-50" value="&lt;font style=&quot;&quot;&gt;Support Cases&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1BA1E2;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="-328" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-51" value="All tables related to support cases" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-50" vertex="1">
-          <mxGeometry y="20" width="140" height="50" as="geometry" />
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-49" value="All Files are stored in SubscriberFiles Table as byte array" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-48" vertex="1">
+          <mxGeometry y="20" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Df2lqeYJ--OD-jJ26Byv-1" value="PDF Files Stored as byte Array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-413" y="-692" width="190" height="30" as="geometry" />
