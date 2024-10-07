@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.17" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="8">
   <diagram id="9r7TWnmRqdj49oUNqk3i" name="IA – Conceptual Data Model">
-    <mxGraphModel dx="1862" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,84 +11,35 @@
           <mxGeometry x="270" y="-810" width="480" height="610" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-1" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 14px; font-family: Calibri, sans-serif;&quot;&gt;Invoice&lt;br style=&quot;font-size: 14px;&quot;&gt;Signing Utility&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="-990" width="120" height="700" as="geometry" />
+          <mxGeometry x="-680" y="-990" width="120" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-2" target="-n0CKBd-lGvseL9h98Tt-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Logs(app)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-2" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;DocumentSigner&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-70" y="-940" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-n0CKBd-lGvseL9h98Tt-3" target="-n0CKBd-lGvseL9h98Tt-1" edge="1">
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.815;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-3" target="-n0CKBd-lGvseL9h98Tt-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-330" y="-785" />
-              <mxPoint x="-330" y="-785" />
+              <mxPoint x="-70" y="-664" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;User Transactions&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-820" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Masters&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-685" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-5" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Admin&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-550" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;AppData, Support Cases&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="-410" width="120" height="70" as="geometry" />
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;FileStore&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=#ffffff;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="-697" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-7" value="&lt;b&gt;CRUD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-35" y="-870" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-8" value="&lt;b&gt;CRUD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="-750" width="50" height="20" as="geometry" />
+          <mxGeometry x="-35" y="-624" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-9" value="&lt;b&gt;CRUD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="-615" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-10" value="&lt;b&gt;CRUD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="-480" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-11" value="&lt;b&gt;CRUD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-35" y="-340" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.994;exitY=0.122;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-1" target="-n0CKBd-lGvseL9h98Tt-2" edge="1">
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.033;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-1" target="-n0CKBd-lGvseL9h98Tt-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="-905" as="sourcePoint" />
             <mxPoint x="-230" y="-710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-18" value="Application log data like request logs, command logs, error stats,&amp;nbsp;&lt;div&gt;host status, users stats, sp stats,request stats, background task etc.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="-925" width="380" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-19" value="Transaction data like e-invoice &amp;amp; e-way bills&lt;div&gt;&amp;nbsp;uploaded by taxpayers into the system&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="-806" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-5" target="-n0CKBd-lGvseL9h98Tt-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-n0CKBd-lGvseL9h98Tt-6" target="-n0CKBd-lGvseL9h98Tt-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-n0CKBd-lGvseL9h98Tt-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-560" y="-650" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-550" y="-650" />
-              <mxPoint x="-550" y="-650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-27" value="&lt;div&gt;Masters data like subscriber, users, roles, rights, other master data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="-674" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-28" value="&lt;div&gt;Administrative users, roles and rights&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="-542" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-29" value="&lt;div&gt;Application supportive data like email history,&amp;nbsp;&lt;/div&gt;&lt;div&gt;query history &amp;amp; support cases&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-465" y="-395" width="270" height="40" as="geometry" />
+        <mxCell id="-n0CKBd-lGvseL9h98Tt-18" value="Application log, Administrative users, roles and rights, Masters data like subscriber,&amp;nbsp;&lt;div&gt;users, roles,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;rights,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;other master data,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Application supportive data like email history&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="-925" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-n0CKBd-lGvseL9h98Tt-31" value="Conceptual Data Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="-795" width="200" height="30" as="geometry" />
@@ -123,23 +74,8 @@
         <mxCell id="-n0CKBd-lGvseL9h98Tt-51" value="All tables related to support cases" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-50" vertex="1">
           <mxGeometry y="20" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-52" value="&lt;font style=&quot;&quot;&gt;E Invoices&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=16;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F7CECA;fillColor=#f7ceca;fontColor=#000000;strokeColor=#006EAF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-751" width="140" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-53" value="All e-invoices, e-way bill related tables" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-52" vertex="1">
-          <mxGeometry y="16" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-58" value="&lt;font style=&quot;&quot;&gt;Gl&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=16;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F7CECA;fillColor=#f7ceca;fontColor=#000000;strokeColor=#006EAF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="570" y="-644" width="140" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-59" value="All general ledger related tables" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-n0CKBd-lGvseL9h98Tt-58" vertex="1">
-          <mxGeometry y="16" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Archival&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-945" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-n0CKBd-lGvseL9h98Tt-65" value="File Stream data will be automatically terminated after No of X days" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-1010" width="210" height="40" as="geometry" />
+        <mxCell id="Df2lqeYJ--OD-jJ26Byv-1" value="PDF Files Stored as byte Array" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="-692" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
