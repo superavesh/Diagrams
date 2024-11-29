@@ -71,33 +71,31 @@
         <mxCell id="xHGTEr-8fceokaSjBUOU-23" value="PGBouncer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_trusted_language_extensions_for_postgresql;" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
           <mxGeometry x="460" y="289" width="59" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="xHGTEr-8fceokaSjBUOU-24" value="CustomPort" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.134;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xUTsG6EXteNMuKocuy_s-2" target="xHGTEr-8fceokaSjBUOU-23" edge="1">
+        <mxCell id="xHGTEr-8fceokaSjBUOU-24" value="CustomPort" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.006;exitY=0.18;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xUTsG6EXteNMuKocuy_s-2" target="xHGTEr-8fceokaSjBUOU-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="218" y="359" as="sourcePoint" />
             <mxPoint x="271" y="359" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="181" y="364" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xHGTEr-8fceokaSjBUOU-26" value="Port 5432/Custom Port" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="yMU-ZAaQUFapcs6r5aY3-3" target="xHGTEr-8fceokaSjBUOU-21" edge="1">
+        <mxCell id="xHGTEr-8fceokaSjBUOU-26" value="Port 5432/Custom Port" style="endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="yMU-ZAaQUFapcs6r5aY3-3" target="xHGTEr-8fceokaSjBUOU-21" edge="1" source="xHGTEr-8fceokaSjBUOU-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="369" y="363.5" as="sourcePoint" />
             <mxPoint x="422" y="363.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xHGTEr-8fceokaSjBUOU-35" value="Ports Group A" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
-          <mxGeometry x="300" y="279" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHGTEr-8fceokaSjBUOU-20" value="Web Server (Windows Server 2019)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=dots;fillColor=none;dashed=1;align=left;verticalAlign=top;fontColor=#000000;strokeColor=#161cc0;" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
           <mxGeometry x="90" y="31" width="290" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="xHGTEr-8fceokaSjBUOU-25" value="CustomPort" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.117;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xUTsG6EXteNMuKocuy_s-2" target="xHGTEr-8fceokaSjBUOU-23" edge="1">
+        <mxCell id="xHGTEr-8fceokaSjBUOU-25" value="CustomPort" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.831;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xHGTEr-8fceokaSjBUOU-20" target="xHGTEr-8fceokaSjBUOU-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="191" y="299" as="sourcePoint" />
             <mxPoint x="320" y="374" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="182" y="372" />
+              <mxPoint x="380" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,23 +114,7 @@
         <mxCell id="xHGTEr-8fceokaSjBUOU-10" value="Portal Api" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
           <mxGeometry x="230" y="62" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xHGTEr-8fceokaSjBUOU-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;dashed=1;fillColor=#f8cecc;strokeColor=#5a3489;entryX=0.721;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xHGTEr-8fceokaSjBUOU-10" target="xUTsG6EXteNMuKocuy_s-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="575" />
-              <mxPoint x="530" y="442" />
-              <mxPoint x="560" y="442" />
-              <mxPoint x="560" y="332" />
-              <mxPoint x="506" y="332" />
-            </Array>
-            <mxPoint x="120" y="538" as="sourcePoint" />
-            <mxPoint x="420" y="612" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_dJijCis9dZ2Z3_0VdmX-4" value="DB Server (Linux Server)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=dots;fillColor=none;dashed=1;align=left;verticalAlign=top;fontColor=#000000;strokeColor=#161cc0;" vertex="1" parent="yMU-ZAaQUFapcs6r5aY3-3">
-          <mxGeometry x="430" y="217" width="290" height="248" as="geometry" />
-        </mxCell>
-        <mxCell id="_dJijCis9dZ2Z3_0VdmX-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.117;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" edge="1" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xHGTEr-8fceokaSjBUOU-20" target="xUTsG6EXteNMuKocuy_s-2">
+        <mxCell id="_dJijCis9dZ2Z3_0VdmX-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.397;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=12 12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" edge="1" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xHGTEr-8fceokaSjBUOU-20" target="xUTsG6EXteNMuKocuy_s-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534" y="71" as="sourcePoint" />
             <mxPoint x="870" y="491" as="targetPoint" />
@@ -153,6 +135,16 @@
             <mxPoint x="379" y="373.5" as="sourcePoint" />
             <mxPoint x="744" y="336" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_dJijCis9dZ2Z3_0VdmX-6" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;dashed=1;fillColor=#f8cecc;strokeColor=#5a3489;" edge="1" parent="yMU-ZAaQUFapcs6r5aY3-3" source="xHGTEr-8fceokaSjBUOU-10" target="_dJijCis9dZ2Z3_0VdmX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="680" y="252" as="sourcePoint" />
+            <mxPoint x="698" y="713" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_dJijCis9dZ2Z3_0VdmX-4" value="DB Server (Linux Server)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=dots;fillColor=none;dashed=1;align=left;verticalAlign=top;fontColor=#000000;strokeColor=#161cc0;" vertex="1" parent="yMU-ZAaQUFapcs6r5aY3-3">
+          <mxGeometry x="430" y="190" width="290" height="248" as="geometry" />
         </mxCell>
         <mxCell id="x4FNr3anz5mZ0z94SjzF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;" parent="1" source="yMU-ZAaQUFapcs6r5aY3-2" target="xHGTEr-8fceokaSjBUOU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
