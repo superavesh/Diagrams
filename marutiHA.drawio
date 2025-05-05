@@ -42,11 +42,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vVVkGMYR9eD5zjtfLxol-15" value="I am Down" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="610" y="10" width="120" height="80" as="geometry" />
+        <mxCell id="vVVkGMYR9eD5zjtfLxol-15" value="I am Down" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vVVkGMYR9eD5zjtfLxol-16" value="I own the VIP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.42;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="120" height="80" as="geometry" />
+        <mxCell id="vVVkGMYR9eD5zjtfLxol-16" value="I own the VIP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
