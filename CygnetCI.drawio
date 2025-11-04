@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T09:19:37.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="M61A5Oat_vRHIe6LQ4vQ" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram id="_KsFbbM1c4Vf_MlxP51w" name="Page-1">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="yMU-ZAaQUFapcs6r5aY3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yMU-ZAaQUFapcs6r5aY3-3" source="yMU-ZAaQUFapcs6r5aY3-5" target="yMU-ZAaQUFapcs6r5aY3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yMU-ZAaQUFapcs6r5aY3-5" value="Vue Js Portal" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
+        <mxCell id="yMU-ZAaQUFapcs6r5aY3-5" value="NextJS Portal" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
           <mxGeometry x="35" y="40" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMU-ZAaQUFapcs6r5aY3-6" value="CygnetCI.API" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" parent="yMU-ZAaQUFapcs6r5aY3-3" vertex="1">
