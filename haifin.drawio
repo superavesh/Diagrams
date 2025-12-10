@@ -110,7 +110,7 @@
             <mxPoint x="233" y="107" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kYtlFCWXWnbeLsXwWhx9-47" parent="U5dyf8ECy7FXiap7Likn-97" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontColor=light-dark(default, #50337a);" value="Private Subnet" vertex="1">
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-47" parent="U5dyf8ECy7FXiap7Likn-97" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontColor=light-dark(#238b4b, #ededed);" value="Private Subnet" vertex="1">
           <mxGeometry height="708" width="738" x="322" y="82" as="geometry" />
         </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-53" parent="U5dyf8ECy7FXiap7Likn-97" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontColor=light-dark(default, #551111);fontSize=16;" value="PostgreSQL Cluster" vertex="1">
@@ -129,7 +129,7 @@
           <mxGeometry height="78" width="78" x="50" y="415.5" as="geometry" />
         </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-66" parent="U5dyf8ECy7FXiap7Likn-97" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="EC2 Linux for AP" vertex="1">
-          <mxGeometry height="93" width="76.5" x="910" y="415.5" as="geometry" />
+          <mxGeometry height="93" width="76.5" x="901.75" y="415.5" as="geometry" />
         </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-67" parent="U5dyf8ECy7FXiap7Likn-97" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="EC2 Linux for SMP" vertex="1">
           <mxGeometry height="93" width="76.5" x="390" y="408" as="geometry" />
@@ -195,6 +195,24 @@
             </Array>
             <mxPoint x="159.25" y="260" as="sourcePoint" />
             <mxPoint x="618.25" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-101" edge="1" parent="U5dyf8ECy7FXiap7Likn-97" source="kYtlFCWXWnbeLsXwWhx9-91" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#238b4b, #ededed);fillColor=#60a917;strokeColor=#2D7600;" target="kYtlFCWXWnbeLsXwWhx9-67" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="698" y="382" />
+            </Array>
+            <mxPoint x="590" y="422" as="sourcePoint" />
+            <mxPoint x="640" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-102" edge="1" parent="U5dyf8ECy7FXiap7Likn-97" source="kYtlFCWXWnbeLsXwWhx9-95" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#238b4b, #ededed);fillColor=#60a917;strokeColor=#2D7600;" target="kYtlFCWXWnbeLsXwWhx9-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="372" />
+            </Array>
+            <mxPoint x="700" y="402" as="sourcePoint" />
+            <mxPoint x="630" y="566" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-76" edge="1" parent="1" source="kYtlFCWXWnbeLsXwWhx9-44" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="U5dyf8ECy7FXiap7Likn-98" value="">
