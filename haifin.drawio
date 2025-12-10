@@ -17,29 +17,78 @@
           <mxGeometry height="60" width="60" y="190" as="geometry" />
         </mxCell>
         <mxCell id="lown9K5yKBKj89JTiUl6-291" parent="21" style="swimlane;shadow=0;strokeColor=#000000;fillColor=#ffe6cc;align=right;startSize=0;collapsible=0;strokeWidth=1;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;textDirection=rtl;" value="AWS" vertex="1">
-          <mxGeometry height="860" width="1160" x="390" y="30" as="geometry" />
+          <mxGeometry height="860" width="1210" x="348.25" y="31" as="geometry" />
         </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-44" parent="lown9K5yKBKj89JTiUl6-291" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" value="" vertex="1">
-          <mxGeometry height="78" width="78" x="-75" y="207" as="geometry" />
+          <mxGeometry height="78" width="78" x="5" y="209" as="geometry" />
         </mxCell>
         <mxCell id="U5dyf8ECy7FXiap7Likn-118" parent="21" style="line;strokeWidth=3;direction=south;html=1;shadow=0;labelBackgroundColor=none;fillColor=none;gradientColor=none;fontSize=12;fontColor=#4277BB;align=right;strokeColor=#4277BB;" value="" vertex="1">
           <mxGeometry height="960" width="10" x="1575" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;einvoicing-adminapi-asp.haifin.com&lt;/div&gt;&lt;div&gt;einvoicing-admin-asp.haifin.com&lt;/div&gt;&lt;div&gt;einvoicing-api-asp.haifin.com&lt;/div&gt;&lt;div&gt;einvoicing-asp.haifin.com&lt;/div&gt;" link="einvoicing-adminapi-asp.haifin.com (for administrative api)&#xa;einvoicing-admin-asp.haifin.com (for administrative web interface)&#xa;einvoicing-api-asp.haifin.com (for asp api)&#xa;einvoicing-asp.haifin.com (for asp web interface)" id="kYtlFCWXWnbeLsXwWhx9-45">
+        <UserObject label="&lt;div&gt;https://uat-einvoicing-adminapi-asp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-admin-asp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-api-asp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-asp.haifin.com&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-admin-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-adminapi-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-admin-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-api-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-smp2.haifin.com&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-ap.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-adminapi-ap.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-admin-ap.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-api-ap.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-ap.haifin.com&lt;/div&gt;" link="einvoicing-adminapi-asp.haifin.com (for administrative api)&#xa;einvoicing-admin-asp.haifin.com (for administrative web interface)&#xa;einvoicing-api-asp.haifin.com (for asp api)&#xa;einvoicing-asp.haifin.com (for asp web interface)" id="kYtlFCWXWnbeLsXwWhx9-45">
           <mxCell parent="21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1">
-            <mxGeometry height="420" width="140" x="115" y="121" as="geometry" />
+            <mxGeometry height="491" width="140" x="115" y="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="lown9K5yKBKj89JTiUl6-144" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=19;fontColor=#CC99FF;elbow=vertical;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;curved=1;entryX=0.1;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;">
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-68" parent="21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;div&gt;https://uat-einvoicing-smp.haifin.com&lt;/div&gt;&lt;div&gt;https://uat-einvoicing-admin-smp.haifin.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="140" x="115" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-69" edge="1" parent="21" source="lown9K5yKBKj89JTiUl6-63" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=19;fontColor=#CC99FF;elbow=vertical;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="kYtlFCWXWnbeLsXwWhx9-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="311" />
-              <mxPoint x="400" y="240" />
-              <mxPoint x="460" y="240" />
-              <mxPoint x="460" y="215" />
+              <mxPoint x="57" y="220" />
+              <mxPoint x="57" y="227" />
+              <mxPoint x="95" y="227" />
+              <mxPoint x="95" y="201" />
+              <mxPoint x="115" y="201" />
             </Array>
-            <mxPoint x="330" y="311" as="sourcePoint" />
-            <mxPoint x="512" y="214.79999999999995" as="targetPoint" />
+            <mxPoint x="60" y="227.20000000000005" as="sourcePoint" />
+            <mxPoint x="242" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-70" edge="1" parent="21" source="lown9K5yKBKj89JTiUl6-63" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=19;fontColor=#CC99FF;elbow=vertical;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="kYtlFCWXWnbeLsXwWhx9-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="57" y="327" />
+              <mxPoint x="65" y="327" />
+              <mxPoint x="65" y="441" />
+              <mxPoint x="75" y="441" />
+              <mxPoint x="75" y="645" />
+            </Array>
+            <mxPoint x="15" y="327.20000000000005" as="sourcePoint" />
+            <mxPoint x="197" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-71" edge="1" parent="21" source="kYtlFCWXWnbeLsXwWhx9-68" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=19;fontColor=#CC99FF;elbow=vertical;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="kYtlFCWXWnbeLsXwWhx9-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="645" />
+              <mxPoint x="265" y="581" />
+              <mxPoint x="273" y="581" />
+              <mxPoint x="273" y="551" />
+              <mxPoint x="283" y="551" />
+              <mxPoint x="283" y="491" />
+              <mxPoint x="315" y="491" />
+              <mxPoint x="315" y="331" />
+            </Array>
+            <mxPoint x="265" y="621" as="sourcePoint" />
+            <mxPoint x="323" y="1033" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-73" edge="1" parent="21" source="kYtlFCWXWnbeLsXwWhx9-45" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endArrow=classic;endFill=1;endSize=4;jettySize=auto;orthogonalLoop=1;strokeWidth=2;fontSize=19;fontColor=#CC99FF;elbow=vertical;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.971;exitY=0.193;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="kYtlFCWXWnbeLsXwWhx9-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="145" />
+              <mxPoint x="265" y="235" />
+              <mxPoint x="273" y="235" />
+              <mxPoint x="273" y="251" />
+              <mxPoint x="283" y="251" />
+              <mxPoint x="283" y="301" />
+              <mxPoint x="323" y="301" />
+              <mxPoint x="323" y="331" />
+            </Array>
+            <mxPoint x="265" y="141" as="sourcePoint" />
+            <mxPoint x="323" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U5dyf8ECy7FXiap7Likn-97" parent="1" style="swimlane;shadow=0;strokeColor=#BB6A0D;fillColor=#ffffff;fontColor=#4277BB;align=left;startSize=0;collapsible=0;strokeWidth=1;fontStyle=0;verticalAlign=top;" value="VPC" vertex="1">
