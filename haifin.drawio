@@ -152,9 +152,6 @@
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-64" parent="U5dyf8ECy7FXiap7Likn-97" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_load_balancer;" value="NLB" vertex="1">
           <mxGeometry height="78" width="78" x="50" y="415.5" as="geometry" />
         </mxCell>
-        <mxCell id="kYtlFCWXWnbeLsXwWhx9-65" parent="U5dyf8ECy7FXiap7Likn-97" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="EC2 Linux Proxy" vertex="1">
-          <mxGeometry height="93" width="76.5" x="180" y="417" as="geometry" />
-        </mxCell>
         <mxCell id="kYtlFCWXWnbeLsXwWhx9-66" parent="U5dyf8ECy7FXiap7Likn-97" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="EC2 Linux for AP" vertex="1">
           <mxGeometry height="93" width="76.5" x="641.75" y="632" as="geometry" />
         </mxCell>
@@ -180,6 +177,15 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="530" y="389" as="sourcePoint" />
             <mxPoint x="604" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-65" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" value="EC2 Linux Proxy" vertex="1">
+          <mxGeometry height="93" width="76.5" x="720" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="kYtlFCWXWnbeLsXwWhx9-79" edge="1" parent="1" source="kYtlFCWXWnbeLsXwWhx9-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;curved=1;" target="kYtlFCWXWnbeLsXwWhx9-65" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648" y="553" as="sourcePoint" />
+            <mxPoint x="782" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
